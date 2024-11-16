@@ -1,5 +1,3 @@
-<img src="./11.jpg" width="100%">
-
 ### 🪧 About Me
 
 
